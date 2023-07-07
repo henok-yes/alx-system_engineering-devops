@@ -1,3 +1,2 @@
-#!bin/bash
-shell permision
+shell  permission project 
 
